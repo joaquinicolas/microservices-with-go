@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "go",
+            "name": "FE",
+            "goExecPath": "/usr/bin/go",
+            "buildParams": [
+                "$PROJECT_DIR$/cmd/web/main.go"
+            ],
+        },
+
+    ]
+}
