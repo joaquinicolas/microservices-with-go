@@ -20,8 +20,10 @@ func (app *Config) routes() http.Handler {
 		MaxAge:           300,
 	}))
 
+
 	mux.Use(middleware.Heartbeat("/ping"))
-	mux.Use(middleware.Heartbeat("/ping"))
+
+	mux.Post("/send", app.SendMail)
 
 	return mux
 }
