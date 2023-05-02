@@ -58,6 +58,8 @@ project/db-data/rabbitmq/mnesia/rabbit@643989859fb5/msg_stores/vhosts/628WB79CIF
 project/db-data/rabbitmq/mnesia/rabbit@643989859fb5/msg_stores/vhosts/628WB79CIFDYO9LJI6DKMI09L/msg_store_transient/0.rdq
 project/db-data/rabbitmq/mnesia/rabbit@643989859fb5/quorum/rabbit@643989859fb5/00000001.wal
 project/db-data/rabbitmq/mnesia/rabbit@643989859fb5/quorum/rabbit@643989859fb5/meta.dets
-project/db-data/rabbitmq/mnesia/rabbit@643989859fb5/quorum/rabbit@643989859fb5/names.dets
+project/db-data/
 logger-service/loggerServiceApp
 authentication-service/authApp
+project/db-data/mongo/collection-0--2962949260164376944.wt
+logger-service/loggerServiceApp
